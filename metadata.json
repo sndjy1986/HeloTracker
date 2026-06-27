@@ -1,0 +1,6 @@
+{
+  "name": "Helicopter Tracker",
+  "description": "A map application to track helicopters and their last trip information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
